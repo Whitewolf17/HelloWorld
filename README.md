@@ -1,6 +1,4 @@
 # HelloWorld
-I'm Suren. I like Red colweror
-Surendranath
+I'm Suren. I like Red color
 
-
-Hello Suren
+I'm typing this from Master
